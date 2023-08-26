@@ -1,6 +1,6 @@
 ### About me
 
-👋 Hi there, my name is Henry! I’m a second year Computer Science and Mathematics student at Northeastern University. I love the intersection of math and cs, specifically in automata theory, np-completeness, and cool data structures. I’m currently learning some new languages, including Django for web apps and Lean for theorem proving.
+👋 Hi there, my name is Henry! I’m a third year Computer Science and Mathematics student at Northeastern University. I love the intersection of math and cs, specifically in automata theory, np-completeness, and cool data structures. I’m currently reading about some math history! 📖
 
 More of my projects can be seen on my <a href="http://henrybarthelemy.github.io/projects.html"> website's projects page </a>
 
