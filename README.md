@@ -1,6 +1,6 @@
 ### About me
 
-👋 Hi there, my name is Henry! I’m a recent Northeastern University graduate. I love the intersection of math and cs, specifically in compilers and cryptography. I’m currently reading about some science history! 📖
+👋 Hi there, my name is Henry! I love the intersection of math and cs, specifically in compilers and cryptography. I’m currently reading about some science history! 📖
 
 More of my projects can be seen on my <a href="http://henrybarthelemy.com/"> website's projects page </a>
 
